@@ -537,7 +537,7 @@ section,
 
 @media (max-width: 768px) {
   .hero img {
-    display: none;
+    display: none !important;
   }
   .addTop{
     text-align: center !important;
